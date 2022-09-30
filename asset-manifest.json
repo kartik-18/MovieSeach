@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MovieSeach/static/css/main.c7de5cbd.css",
+    "main.js": "/MovieSeach/static/js/main.f06b561d.js",
+    "index.html": "/MovieSeach/index.html",
+    "static/media/search.svg": "/MovieSeach/static/media/search.85548e4d6d235088a0d3892fed2b6f29.svg",
+    "main.c7de5cbd.css.map": "/MovieSeach/static/css/main.c7de5cbd.css.map",
+    "main.f06b561d.js.map": "/MovieSeach/static/js/main.f06b561d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7de5cbd.css",
+    "static/js/main.f06b561d.js"
+  ]
+}
